@@ -1,0 +1,8 @@
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\bin\Debug\KhaozNet.MathMax.Data.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\bin\Debug\KhaozNet.MathMax.Data.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\bin\Debug\Flee.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\bin\Debug\KhaozNet.MathMax.Domain.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\bin\Debug\KhaozNet.MathMax.Domain.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\obj\Debug\KhaozNet.MathMax.Data.csproj.CoreCompileInputs.cache
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\obj\Debug\KhaozNet.MathMax.Data.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Data\obj\Debug\KhaozNet.MathMax.Data.pdb

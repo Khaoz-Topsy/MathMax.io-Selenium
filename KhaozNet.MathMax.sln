@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaozNet.MathMax.ConsoleApp", "KhaozNet.MathMax.ConsoleApp\KhaozNet.MathMax.ConsoleApp.csproj", "{02366B30-1A7E-4ADE-9632-71B9E25D2DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaozNet.MathMax.Domain", "KhaozNet.MathMax.Domain\KhaozNet.MathMax.Domain.csproj", "{D57AEE0F-5875-4E27-8349-F3FD9260AC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaozNet.MathMax.Data", "KhaozNet.MathMax.Data\KhaozNet.MathMax.Data.csproj", "{CD36E0F5-32FB-4ED9-992D-4153CDB10F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaozNet.MathMax.Test", "KhaozNet.MathMax.Test\KhaozNet.MathMax.Test.csproj", "{739978BA-EE1A-4BCD-AFCB-5AB0532245DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02366B30-1A7E-4ADE-9632-71B9E25D2DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02366B30-1A7E-4ADE-9632-71B9E25D2DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02366B30-1A7E-4ADE-9632-71B9E25D2DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02366B30-1A7E-4ADE-9632-71B9E25D2DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57AEE0F-5875-4E27-8349-F3FD9260AC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57AEE0F-5875-4E27-8349-F3FD9260AC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57AEE0F-5875-4E27-8349-F3FD9260AC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57AEE0F-5875-4E27-8349-F3FD9260AC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD36E0F5-32FB-4ED9-992D-4153CDB10F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD36E0F5-32FB-4ED9-992D-4153CDB10F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD36E0F5-32FB-4ED9-992D-4153CDB10F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD36E0F5-32FB-4ED9-992D-4153CDB10F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739978BA-EE1A-4BCD-AFCB-5AB0532245DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739978BA-EE1A-4BCD-AFCB-5AB0532245DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739978BA-EE1A-4BCD-AFCB-5AB0532245DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739978BA-EE1A-4BCD-AFCB-5AB0532245DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2550573-8F61-438F-8657-04F0ABFF84E3}
+	EndGlobalSection
+EndGlobal

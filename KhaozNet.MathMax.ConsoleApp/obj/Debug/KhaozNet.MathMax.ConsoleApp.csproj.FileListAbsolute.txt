@@ -1,0 +1,14 @@
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.ConsoleApp.exe.config
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.ConsoleApp.exe
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.ConsoleApp.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\Flee.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.Domain.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\WebDriver.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.Domain.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\WebDriver.xml
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\obj\Debug\KhaozNet.MathMax.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\obj\Debug\KhaozNet.MathMax.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\obj\Debug\KhaozNet.MathMax.ConsoleApp.exe
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\obj\Debug\KhaozNet.MathMax.ConsoleApp.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.Data.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.ConsoleApp\bin\Debug\KhaozNet.MathMax.Data.pdb

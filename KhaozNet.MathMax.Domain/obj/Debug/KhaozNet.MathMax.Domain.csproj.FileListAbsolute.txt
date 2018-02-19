@@ -1,0 +1,6 @@
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\bin\Debug\KhaozNet.MathMax.Domain.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\bin\Debug\KhaozNet.MathMax.Domain.pdb
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\obj\Debug\KhaozNet.MathMax.Domain.csprojResolveAssemblyReference.cache
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\obj\Debug\KhaozNet.MathMax.Domain.csproj.CoreCompileInputs.cache
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\obj\Debug\KhaozNet.MathMax.Domain.dll
+c:\users\kurt.lourens\source\repos\KhaozNet.MathMax\KhaozNet.MathMax.Domain\obj\Debug\KhaozNet.MathMax.Domain.pdb
